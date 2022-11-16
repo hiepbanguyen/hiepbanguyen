@@ -24,8 +24,3 @@
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-<h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiepbanguyen&show_icons=true&locale=en" alt="hiepbanguyen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiepbanguyen&" alt="hiepbanguyen" /></p>
